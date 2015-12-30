@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 08 14:27:19 SGT 2015
+log4j-1.2.17.jar>central=
+log4j-1.2.17.jar>codelds=
+log4j-1.2.17.pom>codelds=
+log4j-1.2.17.pom>central=

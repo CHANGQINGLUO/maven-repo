@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 09 10:54:03 SGT 2015
+http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.error=Could not transfer artifact org.jboss\:jboss-parent\:pom\:5 from/to repo (http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/)\: Connection timed out\: connect
+http\://repo.maven.apache.org/maven2/.lastUpdated=1420772043137
+@default-http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.lastUpdated=1420772038521

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 08 14:21:11 SGT 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1420698071551
+http\://192.168.1.200\:9088/nexus-2.3/content/groups/public/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.9.13 from/to repo (http\://192.168.1.200\:9088/nexus-2.3/content/groups/public/)\: Connection timed out\: connect
+@default-http\://192.168.1.200\:9088/nexus-2.3/content/groups/public/.lastUpdated=1420698071012

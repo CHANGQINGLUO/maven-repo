@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 07 14:15:10 SGT 2015
+@default-http\://repository.codehaus.org/org/codehaus/.lastUpdated=1420611300571
+http\://repository.codehaus.org/org/codehaus/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:sources\:3.2.8.RELEASE from/to codehaus (http\://repository.codehaus.org/org/codehaus)\: connect timed out
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:sources\:3.2.8.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connect timed out
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1420611310612

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 26 16:23:35 SGT 2015
+http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.6.1 from/to repo (http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/)\: connect timed out
+http\://repo.maven.apache.org/maven2/.lastUpdated=1451118214633
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1451118213689
+http\://download.java.net/maven/2/.lastUpdated=1451118215726
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+@default-http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.lastUpdated=1451117197139
+http\://download.java.net/maven/2/.error=

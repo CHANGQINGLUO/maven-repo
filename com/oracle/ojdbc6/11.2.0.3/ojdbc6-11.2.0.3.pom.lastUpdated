@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 29 19:34:04 SGT 2015
+http\://192.168.1.200\:9088/nexus-2.3/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.3 from/to repo (http\://192.168.1.200\:9088/nexus-2.3/content/groups/public/)\: connect timed out
+@default-http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.lastUpdated=1420773122466
+@default-http\://192.168.1.200\:9088/nexus-2.3/content/groups/public/.lastUpdated=1420702986229
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1451388844698
+@default-http\://localhost\:9088/nexus-2.3/content/groups/public/.lastUpdated=1420703059995
+http\://localhost\:9088/nexus-2.3/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.3 from/to repo (http\://localhost\:9088/nexus-2.3/content/groups/public/)\: Connection refused\: connect
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.3 from/to central (http\://repo.maven.apache.org/maven2)\: Connection timed out\: connect
+file\://D\:\\RM\\ep-be\\trunk\\dbs-ep-web/lib/.error=
+http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.3 from/to repo (http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/)\: Connection timed out\: connect
+file\://D\:\\RM\\ep-be\\trunk\\dbs-ep-web/lib/.lastUpdated=1420702509245
+http\://10.91.48.72\:8080/nexus-2.3/content/groups/public/.lastUpdated=1451388823662
+https\://code.lds.org/nexus/content/groups/main-repo/.lastUpdated=1420706612125

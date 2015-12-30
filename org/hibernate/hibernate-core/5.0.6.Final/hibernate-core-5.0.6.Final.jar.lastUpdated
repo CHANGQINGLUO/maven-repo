@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 26 16:07:11 SGT 2015
+http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-core\:jar\:5.0.6.Final from/to repo (http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/)\: connect timed out
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1451117231106
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:jar\:5.0.6.Final from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1451116925186
+@default-http\://54.169.43.31\:8080/nexus-2.3/content/groups/public/.lastUpdated=1451117196953
